@@ -1,2 +1,2 @@
 # ZoneGenAI
-Semua code latian Genrative AI
+Semua code latihan Genrative AI
