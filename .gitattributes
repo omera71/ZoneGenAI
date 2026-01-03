@@ -26,3 +26,9 @@
 *.rs text eol=lf
 *.sh text eol=lf
 *.zsh text eol=lf
+*.ipynb text eol=lf
+*.tex text eol=lf
+*.r text eol=lf
+*.jl text eol=lf
+
+
