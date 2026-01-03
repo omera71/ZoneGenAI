@@ -1,0 +1,56 @@
+# Hasil Terjemahan
+# Input: input.txt
+# Output: output.txt
+# Bahasa target: id
+# Provider: google
+# Tanggal: 2026-01-01 21:47:12
+==================================================
+
+Original (auto):
+# Contoh teks untuk diterjemahkan
+
+Translated (id):
+[TRANSLATION FAILED] # Contoh teks untuk diterjemahkan
+[Provider: google, Confidence: 0.00]
+------------------------------
+
+Original (auto):
+Hello, world! This is a sample text for translation.
+
+Translated (id):
+[TRANSLATION FAILED] Hello, world! This is a sample text for translation.
+[Provider: google, Confidence: 0.00]
+------------------------------
+
+Original (auto):
+Python is a programming language that lets you work quickly and integrate systems more effectively.
+
+Translated (id):
+[TRANSLATION FAILED] Python is a programming language that lets you work quickly and integrate systems more effectively.
+[Provider: google, Confidence: 0.00]
+------------------------------
+
+Original (auto):
+The quick brown fox jumps over the lazy dog.
+
+Translated (id):
+[TRANSLATION FAILED] The quick brown fox jumps over the lazy dog.
+[Provider: google, Confidence: 0.00]
+------------------------------
+
+Original (auto):
+Artificial intelligence is the simulation of human intelligence processes by machines.
+
+Translated (id):
+[TRANSLATION FAILED] Artificial intelligence is the simulation of human intelligence processes by machines.
+[Provider: google, Confidence: 0.00]
+------------------------------
+
+Original (auto):
+Thank you for using this translator application.
+
+Translated (id):
+[TRANSLATION FAILED] Thank you for using this translator application.
+[Provider: google, Confidence: 0.00]
+------------------------------
+

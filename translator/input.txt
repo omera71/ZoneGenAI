@@ -1,0 +1,11 @@
+# Contoh teks untuk diterjemahkan
+
+Hello, world! This is a sample text for translation.
+
+Python is a programming language that lets you work quickly and integrate systems more effectively.
+
+The quick brown fox jumps over the lazy dog.
+
+Artificial intelligence is the simulation of human intelligence processes by machines.
+
+Thank you for using this translator application.
